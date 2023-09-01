@@ -1,3 +1,4 @@
 webrick:
   headers:
     Content-Type: text/html
+    Content-Disposition: inline; filename="pdf.html"
